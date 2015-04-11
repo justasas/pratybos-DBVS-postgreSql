@@ -1,4 +1,0 @@
--- Priskiriant darbuotoja virsijamas biudzetas
-INSERT INTO Komandu_sudetys VALUES (2, 4);
-
-
