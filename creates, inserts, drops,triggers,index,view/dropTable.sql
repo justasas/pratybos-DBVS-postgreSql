@@ -1,0 +1,4 @@
+DROP TABLE juru0847.Zaidejas CASCADE;
+DROP TABLE juru0847.Personalas CASCADE;
+DROP TABLE juru0847.Komandu_sudetys CASCADE;
+DROP TABLE juru0847.Klubas CASCADE;

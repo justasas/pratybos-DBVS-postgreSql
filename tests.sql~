@@ -1,0 +1,7 @@
+-- Zaidejas gimes per anksti
+UPDATE juru0847.Zaidejas SET gimimas = '1800-07-04' WHERE vardas = 'Cristiano';
+
+-- Idedamas zaidejas su pasikartojanciu vardu ir pavarde
+INSERT INTO Zaidejas VALUES ( DEFAULT, 'Cristiano', 'Ronaldo', 191, 85, 7, 1, '1986-07-04' );
+
+

@@ -1,0 +1,2 @@
+-- SELECT pavadinimas, leidykla, verte FROM stud.knyga WHERE verte BETWEEN 10 and 20;
+SELECT AVG(puslapiai FROM stud.knyga, stud.autorius WHERE autorius.ISBN = knyga.ISBN and Vardas = 'Jonas' and Pavarde = 'Jonaitis');
