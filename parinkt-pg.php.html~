@@ -1,9 +1,0 @@
-<html><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Užduotis</title>
-  <link rel="stylesheet" type="text/css" href="parinkt-pg.php_failai/style.css">
-</head>
-<body>
-<h1>Užduotis studentui juru0847:</h1><ol><li>Knygų, kurių vertė yra iš konkretaus intervalo, pavadinimai, leidykla ir vertė.</li><li>Visų konkretaus autoriaus, nuorydo vardu ir pavarde, visų jo parašytų knygų puslapių vidurkis.</li><li>Kiekvienam autoriui (vardas ir pavardė) visų jo knygų visų paimtų egzempliorių skaičius.</li><li>Kiekvienai knygai (pavadinimas, ISBN) jauniausio jos skaitytojo AK ir gimimo data.</li><li>Kiekvienai duomenų bazės lentelei - skaitinio tipo stulpelių skaičius.</li></ol>
-
-</body></html>
